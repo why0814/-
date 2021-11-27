@@ -1,5 +1,2 @@
-# 一个小问题
-## python
-```python
-print("hello")
-```
+# 平时问题解决
+## C语言
